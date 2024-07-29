@@ -6,7 +6,7 @@ import ShareIcon from '../../icons/share'
 
 export default function CardPost({usernname, locaiton, ...props}) {
   return (
-    <div className='bg-violet-50 w-3/4 p-4 rounded-lg'>
+    <div className='mb-8 bg-violet-50 w-3/4 p-4 rounded-lg'>
         <section>
             <div className="flex gap-4">
                <UserImage src="./images/compressed.jpeg"/>
