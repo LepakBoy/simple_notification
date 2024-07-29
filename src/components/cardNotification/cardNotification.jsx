@@ -1,5 +1,4 @@
 import React from 'react'
-import CardPost from '../cardPost/cardPost'
 
 export default function CardNotification() {
   return (
